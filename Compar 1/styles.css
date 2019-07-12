@@ -1,0 +1,46 @@
+/*maak soms gebruik van dit bootstrap doet de rest*/
+#text1{
+    background-color: rgb(54, 136, 207);
+    margin: 0 auto;
+    padding: 10px;
+    border-radius: 10px;
+}
+#text2{
+    background-color:white;
+    margin: 0 auto;
+    padding: 10px;
+}
+/* gebruik hier geen h1 zonder id aangezien ik aleen deze wil aanpassen*/
+#h1{
+    font-family:"Times New Roman", Times, serif;
+    border-bottom: 1px solid black;
+}
+#serieus{
+    background-color:white;
+    margin: 0 auto;
+    padding: 10px;
+}
+#formCont{
+    background-color: rgb(54, 136, 207);
+    margin: 0 auto;
+    padding: 10px;
+    border-radius: 10px;
+}
+#footer1{
+    background-image: url(images/footer.jpg);
+}
+#footer2{
+    background-image: url(images/footer.jpg);
+}
+#background{
+    width:100%;
+    background-image: url(images/bg.jpg);
+}
+#recentieBox{
+    background-image:url('images/reviewbox.jpg');
+    border-radius:10px;
+    padding:5px;
+}
+#Table{
+    border-radius:10px;
+}
